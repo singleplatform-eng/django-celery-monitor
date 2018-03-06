@@ -39,7 +39,7 @@ class Migration(migrations.Migration):
                 )),
                 ('name', models.CharField(
                     db_index=True,
-                    max_length=200,
+                    max_length=191,
                     null=True,
                     verbose_name='name',
                 )),
@@ -103,7 +103,7 @@ class Migration(migrations.Migration):
                     verbose_name='ID',
                 )),
                 ('hostname', models.CharField(
-                    max_length=255,
+                    max_length=191,
                     unique=True,
                     verbose_name='hostname',
                 )),
