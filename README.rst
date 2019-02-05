@@ -1,7 +1,3 @@
-.. image:: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiK2JtSzBwNTk5OVFTbHlhRmxvd1R6OUJRWDBpSlNET29PZUY0SFdiRHF0YzNGcXVzMUtiaENYeXJsOHNGRkkyU1pRUW1YY1lxMTRJWk5CL2xmMWJHRlFNPSIsIml2UGFyYW1ldGVyU3BlYyI6IjBsMTJERGF0STFqWmtiM3MiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master
-   :target: https://console.aws.amazon.com/codebuild/home?region=us-east-1#/projects/vendored_django-celery-monitor/view
-   :alt: Build Status
-
 ============================
 Celery Monitoring for Django
 ============================
